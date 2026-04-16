@@ -40,5 +40,6 @@ Go beyond a summary by uncovering meaningful relationships and trends.
 
 ## In a paragraph or more, outline your next steps. What new skills will you need to acquire? What topics will you need to research? If working with one of two classmates, who will do what?
 
-TODO
+I will need to revisit how to use matplotlib, pandas, and rich library. Referring back to the data science projects I completed in my first semester, alongside further research. Including how to tell a story with data, how real estate taxation works, and any influences.
+
 
