@@ -10,7 +10,7 @@ A data analysis project using a dataset from OpenDataPhilly. Analyzing real esta
 
 ## In a paragraph or more, detail your project. What will your software do? What features will it have? How will it be executed?
 
-TODO
+Inspired by the work done in the City of Philadelphia's department of revenue—my software will provide a comprehensible analysis that will visualize data and reveal patterns. Executed through the collection and organizing of a dataset using Python (features such as Matplotlib, pandas, etc).
 
 ## If planning to combine 1051's final project with another course's final project, with which other course? And which aspect(s) of your proposed project would relate to 1051, and which aspect(s) would relate to the other course?
 
