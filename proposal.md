@@ -24,7 +24,7 @@ TODO, if applicable
 
 ### In a sentence (or list of features), define a GOOD outcome for your final project. I.e., what WILL you accomplish no matter what?
 
-TODO
+Cleanly process a dataset by including pieces of information and graphs/charts that summarize the condition of real estate taxes in Philadelphia.
 
 ### In a sentence (or list of features), define a BETTER outcome for your final project. I.e., what do you THINK you can accomplish before the final project's deadline?
 
