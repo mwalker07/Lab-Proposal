@@ -32,7 +32,11 @@ Go beyond a summary by uncovering meaningful relationships and trends.
 
 ### In a sentence (or list of features), define a BEST outcome for your final project. I.e., what do you HOPE to accomplish before the final project's deadline?
 
-TODO
+- Present data in a unique way/Storytelling with data
+- Multiple types of visuals.
+- Written insights.
+- Good formatting.
+- Uncover meaningful relationships and trends.
 
 ## In a paragraph or more, outline your next steps. What new skills will you need to acquire? What topics will you need to research? If working with one of two classmates, who will do what?
 
