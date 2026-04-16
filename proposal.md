@@ -6,7 +6,7 @@ A Balance-Based Analysis of Real Estate Taxes in Philadelphia
 
 ## In just a sentence or two, summarize your project. (E.g., "A website that lets you buy and sell stocks.")
 
-TODO
+A data analysis project using a dataset from OpenDataPhilly. Analyzing real estate accounts with tax balances (specifically accounts associated with Philadelphia residents') through visuals and written insights to improve the comprehension of dense data.
 
 ## In a paragraph or more, detail your project. What will your software do? What features will it have? How will it be executed?
 
